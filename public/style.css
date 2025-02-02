@@ -367,3 +367,10 @@ h1 {
         padding: 8px;
     }
 }
+
+@media (max-width: 768px) {
+    .word {
+        font-size: 1rem;
+        opacity: 0.6;
+    }
+  }
